@@ -1,4 +1,4 @@
-# DataMiningPracticals
+# DataMiningPractical
 
 Pre-processing of missing values (using mean value of each attribute class) :
 
