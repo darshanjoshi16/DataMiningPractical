@@ -1,15 +1,15 @@
- Age,Income,Student,Credit_Rating,Buys_Computer
- <=30,high,no,fair,no
- <=30,high,no,excellent,no
- 31-40,high,no,fair,yes
- >40,medium,no,fair,yes
- >40,low,yes,fair,yes
- >40,low,yes,excellent,no
-31-40,low,yes,excellent,yes
-<=30,medium,no,fair,no
-<=30,low,yes,fair,yes
->40,medium,yes,fair,yes
-<=30,medium,yes,excellent,yes
-31-40,medium,no,excellent,yes
-31-40,high,yes,fair,yes
->40,medium,no,excellent,no
+ Income,Student,Credit_Rating,Buys_Computer
+ high,no,fair,no
+ high,no,excellent,no
+ high,no,fair,yes
+ medium,no,fair,yes
+ low,yes,fair,yes
+ low,yes,excellent,no
+low,yes,excellent,yes
+medium,no,fair,no
+low,yes,fair,yes
+medium,yes,fair,yes
+medium,yes,excellent,yes
+medium,no,excellent,yes
+high,yes,fair,yes
+medium,no,excellent,no
