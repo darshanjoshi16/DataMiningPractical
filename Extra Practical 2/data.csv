@@ -1,15 +1,15 @@
-      Age  Income Student Credit_Rating Buys_Computer
-0    <=30    high      no          fair            no
-1    <=30    high      no     excellent            no
-2   31-40    high      no          fair           yes
-3     >40  medium      no          fair           yes
-4     >40     low     yes          fair           yes
-5     >40     low     yes     excellent            no
-6   31-40     low     yes     excellent           yes
-7    <=30  medium      no          fair            no
-8    <=30     low     yes          fair           yes
-9     >40  medium     yes          fair           yes
-10   <=30  medium     yes     excellent           yes
-11  31-40  medium      no     excellent           yes
-12  31-40    high     yes          fair           yes
-13    >40  medium      no     excellent            no
+Age,  Income, Student, Credit_Rating, Buys_Computer
+<=30,    high,      no,          fair,            no
+<=30,    high,      no,     excellent,            no
+31-40,    high,      no,          fair,           yes
+>40,  medium,      no,          fair,           yes
+>40,     low,    yes,          fair,           yes
+>40,     low,     yes,     excellent,            no
+31-40,     low,     yes,     excellent,           yes
+<=30,  medium,      no,          fair,            no
+<=30,     low,     yes,          fair,           yes
+>40,  medium,     yes,          fair,           yes
+<=30,  medium,     yes,     excellent,           yes
+31-40,  medium,      no,     excellent,           yes
+31-40,   high,     yes,          fair,           yes
+>40,  medium,      no,     excellent,            no
